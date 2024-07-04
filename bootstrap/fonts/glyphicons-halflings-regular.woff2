@@ -1,0 +1,34 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	::Page Not Found::
+</title><link href="https://ucer.icampuserp.in/(X(1)S(fhmlyedaqhg2x2ow4jxkihw3))/Errors/ErrorStyles.css" rel="stylesheet" type="text/css" /></head>
+<body>
+<form method="post" action="https://ucer.icampuserp.in/(X(1)S(fhmlyedaqhg2x2ow4jxkihw3))/Errors/404.aspx?aspxerrorpath=%2fbootstrap%2ffonts%2fErrors%2f404.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="+9m51Y/laZqCYSzOVmV4ESdJyf0ees63PjjemvFo4G0b+NjTg2i+nQ53cSlOBW3do7rlfJQfz92sa8+XFn/wRaSYCasCQxtqB85wkShORIo=" />
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="69BFA96F" />
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="gWUPy6Ieu8bx-_g6qmE-uIgny7ZALamsvr-vAqzrKqVpWcDDtk933G54NMsMhq77d6hM3yKaP-8aSK62svubmGxo4CAsWhh2-iqUh7ZdZus1" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="UnK9L6dfU7O56EeTdT7mD+1HXlYVB/abMqN/lRFjI556OZgP1hU3lrwp2g9DUipAU4BVk6+27um6ukwsE+XOz1rhqn34CmsOjC2Zp0hKGuW9if/cGb9WypQaHUJyFL+T" />
+<div>
+<div id="clouds">
+<div class="cloud x1"></div>
+<div class="cloud x1_5"></div>
+<div class="cloud x2"></div>
+<div class="cloud x3"></div>
+<div class="cloud x4"></div>
+<div class="cloud x5"></div>
+</div>
+<div class="c">
+<div class="_404">404</div>
+<hr>
+<div class="_1">THE PAGE</div>
+<div class="_2">WAS NOT FOUND</div>
+<a class="btn" href="javascript:history.back()">BACK TO LAST PAGE</a>
+<a id="HomeBtn" class="btn" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;HomeBtn&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Default.aspx&quot;, false, true))">JUMP TO LOGIN PAGE</a>
+</div>
+</div>
+</form>
+</body>
+</html>
